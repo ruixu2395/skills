@@ -1,0 +1,4 @@
+interface:
+  display_name: "STM32 IOC 配置器"
+  short_description: "安全配置 STM32CubeMX .ioc 文件"
+  default_prompt: "使用 $stm32-ioc-configurator 配置 STM32CubeMX .ioc 的外设、引脚、中断和工程元数据。"
